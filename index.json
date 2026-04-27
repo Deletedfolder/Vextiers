@@ -7,6 +7,14 @@
       "tiers": [
         "HT1 Sword"
       ]
+    },
+    {
+      "name": "amjust",
+      "region": "EU",
+      "points": 200,
+      "tiers": [
+        "HT1 Sword"
+      ]
     }
   ]
 }
