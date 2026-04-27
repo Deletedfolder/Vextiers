@@ -307,6 +307,14 @@
       "tiers": [
         "HT4 Axe"
       ]
+    },
+    {
+      "name": "Kakburken2013",
+      "region": "EU",
+      "points": 3,
+      "tiers": [
+        "LT4 Axe"
+      ]
     }
   ]
 }
