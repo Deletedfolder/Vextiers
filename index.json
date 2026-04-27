@@ -219,6 +219,14 @@
       "tiers": [
         "HT1 Axe"
       ]
+    },
+    {
+      "name": "WoodyElvin",
+      "region": "EU",
+      "points": 45,
+      "tiers": [
+        "LT1 Axe"
+      ]
     }
   ]
 }
