@@ -235,6 +235,14 @@
       "tiers": [
         "HT2 Axe"
       ]
+    },
+    {
+      "name": "MR_sl0th",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "HT2 Axe"
+      ]
     }
   ]
 }
