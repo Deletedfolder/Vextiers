@@ -334,5 +334,15 @@
         "AXE LT5"
       ]
     }
+  ],
+  "HT5": [
+    {
+      "name": "Alvarrbgy",
+      "region": "EU",
+      "points": 2,
+      "tiers": [
+        "AXE HT5"
+      ]
+    }
   ]
 }
