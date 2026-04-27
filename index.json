@@ -441,6 +441,14 @@
       "tiers": [
         "LT2 Mace"
       ]
+    },
+    {
+      "name": "skibidi",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 Mace"
+      ]
     }
   ]
 }
