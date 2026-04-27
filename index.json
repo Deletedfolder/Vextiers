@@ -105,6 +105,14 @@
       "tiers": [
         "LT2 Sword"
       ]
+    },
+    {
+      "name": "ems34",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Sword"
+      ]
     }
   ]
 }
