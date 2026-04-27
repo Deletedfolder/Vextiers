@@ -32,5 +32,15 @@
         "LT1 Sword"
       ]
     }
+  ],
+  "Pot": [
+    {
+      "name": "Vexilz_",
+      "region": "EU",
+      "points": 60,
+      "tiers": [
+        "HT1 Pot"
+      ]
+    }
   ]
 }
