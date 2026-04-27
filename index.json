@@ -267,6 +267,14 @@
       "tiers": [
         "HT2 Axe"
       ]
+    },
+    {
+      "name": "SuperSonic2013",
+      "region": "EU",
+      "points": 10,
+      "tiers": [
+        "HT3 Axe"
+      ]
     }
   ]
 }
