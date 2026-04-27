@@ -103,6 +103,14 @@
       "tiers": [
         "LT2 Sword"
       ]
+    },
+    {
+      "name": "SuperSonic2013",
+      "region": "EU",
+      "points": 10,
+      "tiers": [
+        "HT3 Sword"
+      ]
     }
   ],
   "Pot": [
