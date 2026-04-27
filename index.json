@@ -33,14 +33,6 @@
       ]
     },
     {
-      "name": "Dvrkkness",
-      "region": "EU",
-      "points": 60,
-      "tiers": [
-        "HT1 Sword"
-      ]
-    },
-    {
       "name": "Oudaczwhynot",
       "region": "EU",
       "points": 30,
@@ -54,6 +46,14 @@
       "points": 30,
       "tiers": [
         "HT2 Sword"
+      ]
+    },
+    {
+      "name": "Dvrkkness",
+      "region": "AF",
+      "points": 45,
+      "tiers": [
+        "LT1 Sword"
       ]
     }
   ],
