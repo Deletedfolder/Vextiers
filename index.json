@@ -243,6 +243,14 @@
       "tiers": [
         "LT2 Axe"
       ]
+    },
+    {
+      "name": "SnowMonsterSCY",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Axe"
+      ]
     }
   ]
 }
