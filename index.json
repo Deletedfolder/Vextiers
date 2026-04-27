@@ -387,14 +387,6 @@
       ]
     },
     {
-      "name": "SnowMonsterSCY",
-      "region": "EU",
-      "points": 30,
-      "tiers": [
-        "HT2 Mace"
-      ]
-    },
-    {
       "name": "amjust",
       "region": "AF",
       "points": 30,
@@ -420,6 +412,14 @@
     },
     {
       "name": "Oudaczwhynot",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 Mace"
+      ]
+    },
+    {
+      "name": "SnowMonsterSCY",
       "region": "EU",
       "points": 30,
       "tiers": [
