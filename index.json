@@ -79,6 +79,14 @@
       "tiers": [
         "HT3 Sword"
       ]
+    },
+    {
+      "name": "alsahilikings",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Sword"
+      ]
     }
   ],
   "Pot": [
