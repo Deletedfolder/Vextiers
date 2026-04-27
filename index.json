@@ -113,14 +113,6 @@
       ]
     },
     {
-      "name": "ImWzum7",
-      "region": "EU",
-      "points": 10,
-      "tiers": [
-        "HT3 Sword"
-      ]
-    },
-    {
       "name": "tems34",
       "region": "EU",
       "points": 20,
@@ -140,6 +132,14 @@
       "name": "SuperSonic2013",
       "region": "EU",
       "points": 7,
+      "tiers": [
+        "LT3 Sword"
+      ]
+    },
+    {
+      "name": "ImWzum7",
+      "region": "EU",
+      "points": 6,
       "tiers": [
         "LT3 Sword"
       ]
