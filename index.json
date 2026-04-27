@@ -283,6 +283,14 @@
       "tiers": [
         "HT3 Axe"
       ]
+    },
+    {
+      "name": "Fobakk",
+      "region": "EU",
+      "points": 6,
+      "tiers": [
+        "LT3 Axe"
+      ]
     }
   ]
 }
