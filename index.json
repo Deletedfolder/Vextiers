@@ -299,6 +299,14 @@
       "tiers": [
         "LT4 Axe"
       ]
+    },
+    {
+      "name": "TG_Vain",
+      "region": "EU",
+      "points": 4,
+      "tiers": [
+        "LT4 Axe"
+      ]
     }
   ]
 }
