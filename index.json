@@ -135,6 +135,14 @@
       "tiers": [
         "LT2 Sword"
       ]
+    },
+    {
+      "name": "TG_Vain",
+      "region": "EU",
+      "points": 6,
+      "tiers": [
+        "LT3 Sword"
+      ]
     }
   ],
   "Pot": [
