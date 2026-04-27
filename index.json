@@ -57,6 +57,14 @@
       "tiers": [
         "HT2 Sword"
       ]
+    },
+    {
+      "name": "Yzav",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 Sword"
+      ]
     }
   ]
 }
