@@ -39,6 +39,14 @@
       "tiers": [
         "HT2 Mace"
       ]
+    },
+    {
+      "name": "SnowMonsterSCY",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 Mace"
+      ]
     }
   ],
   "Sword": [
