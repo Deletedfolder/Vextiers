@@ -409,6 +409,14 @@
       "tiers": [
         "HT2 Mace"
       ]
+    },
+    {
+      "name": "J4umpx",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Mace"
+      ]
     }
   ]
 }
