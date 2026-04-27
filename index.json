@@ -379,14 +379,6 @@
       ]
     },
     {
-      "name": "Mr_grayy",
-      "region": "EU",
-      "points": 30,
-      "tiers": [
-        "LT1 Mace"
-      ]
-    },
-    {
       "name": "Oudaczwhynot",
       "region": "EU",
       "points": 30,
@@ -416,6 +408,14 @@
       "points": 20,
       "tiers": [
         "LT2 Mace"
+      ]
+    },
+    {
+      "name": "Mr_grayy",
+      "region": "EU",
+      "points": 45,
+      "tiers": [
+        "LT1 Mace"
       ]
     }
   ]
