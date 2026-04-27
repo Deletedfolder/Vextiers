@@ -25,6 +25,14 @@
       "tiers": [
         "LT1 Sword"
       ]
+    },
+    {
+      "name": "Vexilz_",
+      "region": "EU",
+      "points": 60,
+      "tiers": [
+        "HT1 Sword"
+      ]
     }
   ]
 }
