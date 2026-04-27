@@ -401,6 +401,14 @@
       "tiers": [
         "HT2 Mace"
       ]
+    },
+    {
+      "name": "amjust",
+      "region": "AF",
+      "points": 30,
+      "tiers": [
+        "HT2 Mace"
+      ]
     }
   ]
 }
