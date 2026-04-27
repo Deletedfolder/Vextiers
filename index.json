@@ -387,14 +387,6 @@
       ]
     },
     {
-      "name": "J4umpx",
-      "region": "EU",
-      "points": 20,
-      "tiers": [
-        "LT2 Mace"
-      ]
-    },
-    {
       "name": "Mr_grayy",
       "region": "EU",
       "points": 45,
@@ -424,6 +416,14 @@
       "points": 30,
       "tiers": [
         "HT2 Mace"
+      ]
+    },
+    {
+      "name": "J4umpx",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Mace"
       ]
     }
   ]
