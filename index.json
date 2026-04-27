@@ -153,6 +153,14 @@
       "tiers": [
         "LT3 Sword"
       ]
+    },
+    {
+      "name": "WoodyElvin",
+      "region": "EU",
+      "points": 4,
+      "tiers": [
+        "HT4 Sword"
+      ]
     }
   ]
 }
