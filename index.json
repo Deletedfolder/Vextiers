@@ -259,6 +259,14 @@
       "tiers": [
         "HT3 Axe"
       ]
+    },
+    {
+      "name": "Oudaczwhynot",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Axe"
+      ]
     }
   ]
 }
