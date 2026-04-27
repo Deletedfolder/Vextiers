@@ -245,14 +245,6 @@
       ]
     },
     {
-      "name": "Oudaczwhynot",
-      "region": "EU",
-      "points": 20,
-      "tiers": [
-        "LT2 Axe"
-      ]
-    },
-    {
       "name": "Yzav",
       "region": "EU",
       "points": 20,
@@ -338,6 +330,14 @@
       "points": 2,
       "tiers": [
         "HT5 Axe"
+      ]
+    },
+    {
+      "name": "Oudaczwhynot",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Axe"
       ]
     }
   ]
