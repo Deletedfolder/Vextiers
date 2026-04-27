@@ -1,1 +1,12 @@
-[]
+{
+  "Sword": [
+    {
+      "name": "Vexilz_",
+      "region": "EU",
+      "points": 200,
+      "tiers": [
+        "HT1 Sword"
+      ]
+    }
+  ]
+}
