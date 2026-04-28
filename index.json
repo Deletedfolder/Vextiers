@@ -79,6 +79,14 @@
       "tiers": [
         "LT2 Mace"
       ]
+    },
+    {
+      "name": "Fobakk",
+      "region": "EU",
+      "points": 10,
+      "tiers": [
+        "HT3 Mace"
+      ]
     }
   ],
   "Sword": [
