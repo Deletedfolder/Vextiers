@@ -525,6 +525,14 @@
       "tiers": [
         "LT2 UHC"
       ]
+    },
+    {
+      "name": "mohammedantar",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 UHC"
+      ]
     }
   ]
 }
