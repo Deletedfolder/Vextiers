@@ -1087,6 +1087,14 @@
       "tiers": [
         "LT1 NethPot"
       ]
+    },
+    {
+      "name": "Mr_grayy",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 NethPot"
+      ]
     }
   ]
 }
