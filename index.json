@@ -135,6 +135,14 @@
       "tiers": [
         "HT5 Mace"
       ]
+    },
+    {
+      "name": "TG_Vain",
+      "region": "EU",
+      "points": 2,
+      "tiers": [
+        "HT5 Mace"
+      ]
     }
   ],
   "Sword": [
