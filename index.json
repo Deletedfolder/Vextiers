@@ -1035,6 +1035,14 @@
       "tiers": [
         "LT4 Pot"
       ]
+    },
+    {
+      "name": "Eedgsping",
+      "region": "EU",
+      "points": 2,
+      "tiers": [
+        "HT5 Pot"
+      ]
     }
   ],
   "pot": [
