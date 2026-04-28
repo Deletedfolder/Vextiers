@@ -73,14 +73,6 @@
       ]
     },
     {
-      "name": "Sanddryy",
-      "region": "EU",
-      "points": 20,
-      "tiers": [
-        "LT2 Mace"
-      ]
-    },
-    {
       "name": "Fobakk",
       "region": "EU",
       "points": 10,
@@ -174,6 +166,14 @@
       "points": 1,
       "tiers": [
         "LT5 Mace"
+      ]
+    },
+    {
+      "name": "Sanddryy",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Mace"
       ]
     }
   ],
