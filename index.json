@@ -501,6 +501,14 @@
       "tiers": [
         "LT2 UHC"
       ]
+    },
+    {
+      "name": "J4umpx",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 UHC"
+      ]
     }
   ]
 }
