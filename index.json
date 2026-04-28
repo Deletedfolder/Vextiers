@@ -735,6 +735,14 @@
       "tiers": [
         "LT2 Vanilla"
       ]
+    },
+    {
+      "name": "amjust",
+      "region": "AF",
+      "points": 20,
+      "tiers": [
+        "LT2 Vanilla"
+      ]
     }
   ],
   "SMP": [
