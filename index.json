@@ -1079,6 +1079,14 @@
       "tiers": [
         "HT1 NethPot"
       ]
+    },
+    {
+      "name": "Mr_sl0th",
+      "region": "EU",
+      "points": 45,
+      "tiers": [
+        "LT1 NethPot"
+      ]
     }
   ]
 }
