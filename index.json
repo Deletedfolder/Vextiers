@@ -783,6 +783,14 @@
       "tiers": [
         "LT3 Vanilla"
       ]
+    },
+    {
+      "name": "TG_Vain",
+      "region": "EU",
+      "points": 4,
+      "tiers": [
+        "HT4 Vanilla"
+      ]
     }
   ],
   "SMP": [
