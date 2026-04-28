@@ -629,6 +629,14 @@
       "tiers": [
         "HT4 UHC"
       ]
+    },
+    {
+      "name": "Eedgsping",
+      "region": "EU",
+      "points": 2,
+      "tiers": [
+        "HT5 UHC"
+      ]
     }
   ]
 }
