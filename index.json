@@ -905,6 +905,14 @@
       "tiers": [
         "LT2 SMP"
       ]
+    },
+    {
+      "name": "SuperSonic0213",
+      "region": "EU",
+      "points": 10,
+      "tiers": [
+        "HT3 SMP"
+      ]
     }
   ]
 }
