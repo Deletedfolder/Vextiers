@@ -111,6 +111,14 @@
       "tiers": [
         "LT3 Mace"
       ]
+    },
+    {
+      "name": "Cristianlibardo",
+      "region": "EU",
+      "points": 3,
+      "tiers": [
+        "LT4 Mace"
+      ]
     }
   ],
   "Sword": [
