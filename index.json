@@ -897,6 +897,14 @@
       "tiers": [
         "LT2 SMP"
       ]
+    },
+    {
+      "name": "Dvrkkness",
+      "region": "AF",
+      "points": 20,
+      "tiers": [
+        "LT2 SMP"
+      ]
     }
   ]
 }
