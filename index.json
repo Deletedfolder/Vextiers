@@ -445,6 +445,14 @@
       "tiers": [
         "LT1 UHC"
       ]
+    },
+    {
+      "name": "SuperSonic2013",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 UHC"
+      ]
     }
   ]
 }
