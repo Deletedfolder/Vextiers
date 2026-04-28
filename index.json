@@ -573,6 +573,14 @@
       "tiers": [
         "HT3 UHC"
       ]
+    },
+    {
+      "name": "Cristianlibardo",
+      "region": "EU",
+      "points": 6,
+      "tiers": [
+        "LT3 UHC"
+      ]
     }
   ]
 }
