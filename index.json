@@ -889,6 +889,14 @@
       "tiers": [
         "LT2 SMP"
       ]
+    },
+    {
+      "name": "wnuch4j",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 SMP"
+      ]
     }
   ]
 }
