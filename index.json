@@ -719,6 +719,14 @@
       "tiers": [
         "HT2 Vanilla"
       ]
+    },
+    {
+      "name": "Fobakk",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 Vanilla"
+      ]
     }
   ]
 }
