@@ -921,6 +921,14 @@
       "tiers": [
         "HT3 SMP"
       ]
+    },
+    {
+      "name": "WoodyElvin",
+      "region": "EU",
+      "points": 4,
+      "tiers": [
+        "HT4 SMP"
+      ]
     }
   ]
 }
