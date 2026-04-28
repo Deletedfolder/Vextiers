@@ -541,6 +541,14 @@
       "tiers": [
         "LT2 UHC"
       ]
+    },
+    {
+      "name": "Oudaczwhynot",
+      "region": "EU",
+      "points": 10,
+      "tiers": [
+        "HT3 UHC"
+      ]
     }
   ]
 }
