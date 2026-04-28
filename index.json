@@ -775,6 +775,14 @@
       "tiers": [
         "LT3 Vanilla"
       ]
+    },
+    {
+      "name": "Yzav",
+      "region": "EU",
+      "points": 6,
+      "tiers": [
+        "LT3 Vanilla"
+      ]
     }
   ],
   "SMP": [
