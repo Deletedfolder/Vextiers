@@ -961,6 +961,14 @@
       "tiers": [
         "LT5 SMP"
       ]
+    },
+    {
+      "name": "mustardslasher1",
+      "region": "EU",
+      "points": 1,
+      "tiers": [
+        "LT5 SMP"
+      ]
     }
   ]
 }
