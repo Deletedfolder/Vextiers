@@ -807,6 +807,14 @@
       "tiers": [
         "HT5 Vanilla"
       ]
+    },
+    {
+      "name": "Eedgsping",
+      "region": "EU",
+      "points": 1,
+      "tiers": [
+        "LT5 Vanilla"
+      ]
     }
   ],
   "SMP": [
