@@ -953,6 +953,14 @@
       "tiers": [
         "HT5 SMP"
       ]
+    },
+    {
+      "name": "Theobaldblrd",
+      "region": "EU",
+      "points": 1,
+      "tiers": [
+        "LT5 SMP"
+      ]
     }
   ]
 }
