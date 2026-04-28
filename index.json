@@ -970,5 +970,15 @@
         "LT5 SMP"
       ]
     }
+  ],
+  "Pot": [
+    {
+      "name": "Vexilz_",
+      "region": "EU",
+      "points": 60,
+      "tiers": [
+        "HT1 Pot"
+      ]
+    }
   ]
 }
