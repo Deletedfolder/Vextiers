@@ -613,6 +613,14 @@
       "tiers": [
         "HT4 UHC"
       ]
+    },
+    {
+      "name": "TG_Vain",
+      "region": "EU",
+      "points": 4,
+      "tiers": [
+        "HT4 UHC"
+      ]
     }
   ]
 }
