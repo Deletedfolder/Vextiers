@@ -1027,6 +1027,14 @@
       "tiers": [
         "HT3 Pot"
       ]
+    },
+    {
+      "name": "WoodyElvin",
+      "region": "EU",
+      "points": 3,
+      "tiers": [
+        "LT4 Pot"
+      ]
     }
   ],
   "pot": [
