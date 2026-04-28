@@ -873,6 +873,14 @@
       "tiers": [
         "HT2 SMP"
       ]
+    },
+    {
+      "name": "J4umpx",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 SMP"
+      ]
     }
   ]
 }
