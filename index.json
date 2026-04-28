@@ -1070,5 +1070,15 @@
         "LT3 pot"
       ]
     }
+  ],
+  "NethPot": [
+    {
+      "name": "Vexilz_",
+      "region": "EU",
+      "points": 60,
+      "tiers": [
+        "HT1 NethPot"
+      ]
+    }
   ]
 }
