@@ -1028,5 +1028,15 @@
         "HT3 Pot"
       ]
     }
+  ],
+  "pot": [
+    {
+      "name": "SuperSonic2013",
+      "region": "EU",
+      "points": 6,
+      "tiers": [
+        "LT3 pot"
+      ]
+    }
   ]
 }
