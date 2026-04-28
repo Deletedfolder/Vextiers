@@ -669,6 +669,14 @@
       "tiers": [
         "HT5 UHC"
       ]
+    },
+    {
+      "name": "mustardslasher1",
+      "region": "EU",
+      "points": 1,
+      "tiers": [
+        "LT5 UHC"
+      ]
     }
   ]
 }
