@@ -95,6 +95,14 @@
       "tiers": [
         "HT3 Mace"
       ]
+    },
+    {
+      "name": "Kapustekyt",
+      "region": "EU",
+      "points": 6,
+      "tiers": [
+        "LT3 Mace"
+      ]
     }
   ],
   "Sword": [
