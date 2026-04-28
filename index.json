@@ -1072,5 +1072,15 @@
         "NETHPOT LT2"
       ]
     }
+  ],
+  "HT1": [
+    {
+      "name": "Vexilz_",
+      "region": "EU",
+      "points": 60,
+      "tiers": [
+        "NETHPOT HT1"
+      ]
+    }
   ]
 }
