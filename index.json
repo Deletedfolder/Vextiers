@@ -493,6 +493,14 @@
       "tiers": [
         "LT2 UHC"
       ]
+    },
+    {
+      "name": "Fobakk",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 UHC"
+      ]
     }
   ]
 }
