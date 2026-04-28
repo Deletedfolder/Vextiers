@@ -759,6 +759,14 @@
       "tiers": [
         "LT2 Vanilla"
       ]
+    },
+    {
+      "name": "SuperSonic2013",
+      "region": "EU",
+      "points": 10,
+      "tiers": [
+        "HT3 Vanilla"
+      ]
     }
   ],
   "SMP": [
