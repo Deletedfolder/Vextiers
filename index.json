@@ -549,6 +549,14 @@
       "tiers": [
         "HT3 UHC"
       ]
+    },
+    {
+      "name": "Yzav",
+      "region": "EU",
+      "points": 10,
+      "tiers": [
+        "HT3 UHC"
+      ]
     }
   ]
 }
