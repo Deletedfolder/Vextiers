@@ -565,6 +565,14 @@
       "tiers": [
         "HT3 UHC"
       ]
+    },
+    {
+      "name": "tems34",
+      "region": "EU",
+      "points": 10,
+      "tiers": [
+        "HT3 UHC"
+      ]
     }
   ]
 }
