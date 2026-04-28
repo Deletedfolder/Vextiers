@@ -429,6 +429,14 @@
       "tiers": [
         "HT1 UHC"
       ]
+    },
+    {
+      "name": "Mr_sl0th",
+      "region": "EU",
+      "points": 45,
+      "tiers": [
+        "LT1 UHC"
+      ]
     }
   ]
 }
