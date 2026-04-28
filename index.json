@@ -945,6 +945,14 @@
       "tiers": [
         "HT5 SMP"
       ]
+    },
+    {
+      "name": "Eedgsping",
+      "region": "EU",
+      "points": 2,
+      "tiers": [
+        "HT5 SMP"
+      ]
     }
   ]
 }
