@@ -711,6 +711,14 @@
       "tiers": [
         "LT1 Vanilla"
       ]
+    },
+    {
+      "name": "Vexilz",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 Vanilla"
+      ]
     }
   ]
 }
