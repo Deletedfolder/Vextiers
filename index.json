@@ -929,6 +929,14 @@
       "tiers": [
         "HT4 SMP"
       ]
+    },
+    {
+      "name": "Kakburken2013",
+      "region": "EU",
+      "points": 4,
+      "tiers": [
+        "HT4 SMP"
+      ]
     }
   ]
 }
