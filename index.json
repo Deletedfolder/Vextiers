@@ -1062,25 +1062,5 @@
         "LT3 pot"
       ]
     }
-  ],
-  "NethPot": [
-    {
-      "name": "Dvrkkness",
-      "region": "AF",
-      "points": 20,
-      "tiers": [
-        "LT2 NethPot"
-      ]
-    }
-  ],
-  "HT1": [
-    {
-      "name": "Vexilz_",
-      "region": "EU",
-      "points": 60,
-      "tiers": [
-        "NETHPOT HT1"
-      ]
-    }
   ]
-}
+    {
