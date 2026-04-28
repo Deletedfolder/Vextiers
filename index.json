@@ -761,6 +761,14 @@
       "tiers": [
         "LT1 SMP"
       ]
+    },
+    {
+      "name": "MR_sl0th",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 SMP"
+      ]
     }
   ]
 }
