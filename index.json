@@ -461,6 +461,14 @@
       "tiers": [
         "HT2 UHC"
       ]
+    },
+    {
+      "name": "wnuch4j",
+      "region": "EU",
+      "points": 30,
+      "tiers": [
+        "HT2 UHC"
+      ]
     }
   ]
 }
