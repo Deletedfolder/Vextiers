@@ -477,6 +477,14 @@
       "tiers": [
         "HT2 UHC"
       ]
+    },
+    {
+      "name": "MR_grayy",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 UHC"
+      ]
     }
   ]
 }
