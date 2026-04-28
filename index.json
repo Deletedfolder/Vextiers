@@ -1062,5 +1062,15 @@
         "LT3 pot"
       ]
     }
+  ],
+  "LT2": [
+    {
+      "name": "Dvrkkness",
+      "region": "AF",
+      "points": 20,
+      "tiers": [
+        "NETHPOT LT2"
+      ]
+    }
   ]
 }
