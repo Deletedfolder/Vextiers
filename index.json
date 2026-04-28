@@ -127,6 +127,14 @@
       "tiers": [
         "LT4 Mace"
       ]
+    },
+    {
+      "name": "Eedgsping",
+      "region": "EU",
+      "points": 2,
+      "tiers": [
+        "HT5 Mace"
+      ]
     }
   ],
   "Sword": [
