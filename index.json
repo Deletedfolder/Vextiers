@@ -881,6 +881,14 @@
       "tiers": [
         "LT2 SMP"
       ]
+    },
+    {
+      "name": "Cristianlibardo",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 SMP"
+      ]
     }
   ]
 }
