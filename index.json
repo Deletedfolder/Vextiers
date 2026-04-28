@@ -751,6 +751,14 @@
       "tiers": [
         "LT2 Vanilla"
       ]
+    },
+    {
+      "name": "Kapitiny",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 Vanilla"
+      ]
     }
   ],
   "SMP": [
