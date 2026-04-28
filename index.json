@@ -589,6 +589,14 @@
       "tiers": [
         "LT3 UHC"
       ]
+    },
+    {
+      "name": "alsahili_kings",
+      "region": "EU",
+      "points": 6,
+      "tiers": [
+        "LT3 UHC"
+      ]
     }
   ]
 }
