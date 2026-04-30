@@ -1119,6 +1119,14 @@
       "tiers": [
         "LT2 NethPot"
       ]
+    },
+    {
+      "name": "SnowMonsterSCY",
+      "region": "EU",
+      "points": 20,
+      "tiers": [
+        "LT2 NethPot"
+      ]
     }
   ]
 }
