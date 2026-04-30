@@ -1127,6 +1127,14 @@
       "tiers": [
         "LT2 NethPot"
       ]
+    },
+    {
+      "name": "Dvrkkness",
+      "region": "AF",
+      "points": 20,
+      "tiers": [
+        "LT2 NethPot"
+      ]
     }
   ]
 }
